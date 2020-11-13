@@ -334,6 +334,10 @@ footer li a {
         padding-top: 0;
         margin-bottom: 50px;
     }
+    
+    .left {
+        text-align: center;
+    }
 
     header::before,
     header::after {
